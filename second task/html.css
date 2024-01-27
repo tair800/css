@@ -1,0 +1,98 @@
+img{
+    width: 258px;
+    height: 185px;
+    padding: 58px;
+}
+h1{
+   
+    position: absolute;
+    top: 38px;
+    left: 345px;
+}
+pre{
+    position: absolute;
+    top: 98px;
+    left: 255px;
+}
+a{
+    position: absolute;
+    top: 234px;
+    left: 348px;
+    font-weight:bolder;
+    text-decoration: none;
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.second img{
+    width: 258px;
+    height: 185px;
+    padding: 58px;
+   
+}
+.second h1{
+    position: absolute;
+    top: 344px;
+    left: 345px;
+}
+.second a{
+    position: absolute;
+    top: 540px;
+    left: 345px;
+    font-weight:bolder;
+    text-decoration: none;
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.second pre{
+    position: absolute;
+    top: 402px;
+    left: 255px;
+}
+.third img{
+    width: 258px;
+    height: 185px;
+    padding: 58px;
+    position: absolute;
+    top: 10px;
+    right: 264px;
+}
+.third h1{
+    position: absolute;
+    top: 43px;
+    left: 1067px;
+}
+.third a{
+    position: absolute;
+    top: 235px;
+    left: 1067px; 
+}
+.third pre{
+    position: absolute;
+    top: 102px;
+    left: 976px;
+}
+.fourth img{
+    width: 258px;
+    height: 185px;
+    padding: 58px;
+    position: absolute;
+    top: 310px;
+    right: 264px; 
+}
+.fourth h1{
+    position: absolute;
+    top: 340px;
+    left: 1067px;
+}
+.fourth a{
+    position: absolute;
+    top: 537px;
+    left: 1067px; 
+}
+.fourth pre{
+    position: absolute;
+    top: 397px;
+    left: 985px;
+}
+
+

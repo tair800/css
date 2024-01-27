@@ -1,0 +1,44 @@
+.sahe{
+    font-weight: 100;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    top: 94px;
+    left: 72px;
+    font-size: 40px;
+    position: absolute;
+}
+.ted{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    position: absolute;
+    top: 43px;
+    left: 66px;
+    
+}
+hr{
+    border-color: red;
+    border-right: 6px;
+    width: 97px;
+    position: absolute;
+    top: 174px;
+    left: 75px;
+    height: 3px;
+    background-color: red;
+   border-radius: 5px;
+}
+pre{
+    position: absolute;
+    top: 203px;
+    left: 44px;
+}
+
+  .flex-container {
+    display: flex;
+    background-color: DodgerBlue;
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
